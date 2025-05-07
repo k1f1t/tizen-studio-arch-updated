@@ -1,8 +1,15 @@
 # How to install Tizen Studio on Arch Linux
 
-### Just clone the repo and run `./install.sh`
+### Just clone the repo and run `./install.sh` THAT IS ALL YOU HAVE TO DO INSTEAD OF ORGINAL VERSION!
 
-What we do?
+## What I do?
+
+1. Put newest version of Tizen Studio!
+2. Automatically execute ./dpkg and ./fake-dpkg.sh sctipts so you don't have to do it!
+3. Allow you to reinstall software without redownloading whole installer!
+4. IF YOU WANT TO UPDATE REMOVE tizen-studio.bin 
+
+## What Toxblh/tizen-studio-arch do?
 
 0. Install java, I use OpenJDK 11.0.7 (via sdkman!)
 1. Download the studio from https://developer.tizen.org/ko/development/tizen-studio/download?langredirect=1# (Tizen Studio with IDE installer)
