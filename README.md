@@ -9,7 +9,7 @@
 2. **If something is outdated just change url to newest version from [here](https://download.tizen.org/sdk/Installer) and make an bug in pull requests**
 3. Automatically execute ./dpkg and ./fake-dpkg.sh sctipts so you don't have to do it!
 4. Allow you to reinstall software without redownloading whole installer!
-5. IF YOU WANT TO UPDATE REMOVE tizen-studio.bin 
+5. **If you want to update remove tizen-studio.bin**
 
 ## What Toxblh/tizen-studio-arch do?
 
