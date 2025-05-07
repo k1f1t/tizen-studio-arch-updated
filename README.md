@@ -6,10 +6,10 @@
 ## What I do?
 
 1. Put newest version of Tizen Studio!
-**If something is outdated just change url to newest version from [here](https://download.tizen.org/sdk/Installer) and make an bug in pull requests**
-2. Automatically execute ./dpkg and ./fake-dpkg.sh sctipts so you don't have to do it!
-3. Allow you to reinstall software without redownloading whole installer!
-4. IF YOU WANT TO UPDATE REMOVE tizen-studio.bin 
+2. **If something is outdated just change url to newest version from [here](https://download.tizen.org/sdk/Installer) and make an bug in pull requests**
+3. Automatically execute ./dpkg and ./fake-dpkg.sh sctipts so you don't have to do it!
+4. Allow you to reinstall software without redownloading whole installer!
+5. IF YOU WANT TO UPDATE REMOVE tizen-studio.bin 
 
 ## What Toxblh/tizen-studio-arch do?
 
