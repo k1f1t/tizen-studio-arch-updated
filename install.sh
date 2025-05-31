@@ -1,8 +1,8 @@
 #!/bin/sh
 echo "Installing deps."
+yay -Syu rpmextract cpio gnome-keyring wget
 wget -O webkitgtk2.pkg.tar.zst https://github.com/frealgagu/archlinux.webkitgtk2/releases/download/3_2.4.11-28/webkitgtk2-3.2.4.11-28-x86_64.pkg.tar.zst
 sudo pacman -U webkitgtk2.pkg.tar.zst
-yay -Syu rpmextract cpio gnome-keyring
 ./dpkg
 ./fake-dpkg.sh
 if test -f tizen_studio.bin; then
