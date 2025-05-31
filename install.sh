@@ -1,4 +1,5 @@
 #!/bin/sh
+pacman -Syu rpmextract cpio gnome-keyring webkitgtk
 ./dpkg
 ./fake-dpkg.sh
 if test -f tizen_studio.bin; then
