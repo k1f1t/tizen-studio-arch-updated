@@ -2,6 +2,7 @@
 
 ### Just clone the repo and run `./install.sh` 
 ### THAT IS ALL YOU HAVE TO DO INSTEAD OF ORGINAL VERSION!
+#### You need to have yay installed!
 
 ## What I do?
 
